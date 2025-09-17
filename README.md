@@ -21,7 +21,6 @@ data-engineering-portfolio/
 ### Notebooks
 - **TP1_Data_Engineering.ipynb** — Prototype data pipeline: loading, cleaning, validation.
 - **TP2_Data_Engineering.ipynb** — Transformations at scale and performance profiling.
-- **TP2_Data_Structures_Dynamic_Tables.ipynb** — Dynamic tables from scratch; amortized analysis.
 - **TP3_Data_Engineering.ipynb** — Storage strategies, efficient joins, memory profiling.
 - **Project_Data_Engineering.ipynb** — End-to-end pipeline from ingestion to reporting.
 
