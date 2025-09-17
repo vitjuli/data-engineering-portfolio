@@ -7,7 +7,7 @@ The work includes both **Jupyter Notebooks** for transparent exploration and **P
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 data-engineering-portfolio/
@@ -32,13 +32,13 @@ Auto-extracted top-level functions/classes consolidated in **`src/common.py`** f
 
 ---
 
-## 🔧 Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+## ▶ Usage
 
 Run any notebook from the `notebooks/` folder via Jupyter Lab/Notebook.
 You can also import utilities:
@@ -49,17 +49,13 @@ from src.common import *
 
 ---
 
-## 🎯 Research Scope & Highlights
+## Research Scope & Highlights
 - Modular **data pipelines**: ingestion → validation → preprocessing → transformation → analysis.
 - Efficient **data structures** and memory-aware operations.
 - **Reproducibility**: clean outputs, fixed kernel metadata, minimal dependencies.
 - Clear **documentation**: cover pages, section templates, and conclusions.
 
 ---
-
-## 📎 Citation
-If you reference this repository, cite as:
-> Vitiugova, Iuliia. *Data Engineering & Data Structures – Research Portfolio.* 2025. GitHub Repository.
 
 ---
 
