@@ -1,6 +1,6 @@
-# Data Engineering & Data Structures – Research Portfolio
+# Data Engineering
 
-This repository presents a set of research-driven projects in **Data Engineering** and **Computer Science** by **Iuliia Vitiugova**.
+This repository presents a set of research-driven projects by **Iuliia Vitiugova**.
 The focus is on designing efficient data pipelines, experimenting with data structures, and applying advanced transformations in a reproducible, professional manner.
 
 The work includes both **Jupyter Notebooks** for transparent exploration and **Python modules** for reusable code.
@@ -57,7 +57,5 @@ from src.common import *
 
 ---
 
----
-
-## 📜 License
+##  License
 MIT License. See `LICENSE` for details.
